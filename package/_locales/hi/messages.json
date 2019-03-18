@@ -1,0 +1,18 @@
+{
+  "app_name": {
+    "message": "नाम",
+    "description": "The name of the application. Shown in the web store."
+  },
+  "app_name_short": {
+    "message": "लघु नाम",
+    "description": "The short name of the application. Shown at the top of the dropdown menu."
+  },
+  "app_desc": {
+    "message": "विवरण",
+    "description": "The short description of the application. Shown in the web store."
+  },
+  "chrome_web_store_description": {
+    "message": "क्रोम संग्रह विवरण",
+    "description": "Detailed extension description shown to users in the Chrome Web Store."
+  }
+}
